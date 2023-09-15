@@ -1,3 +1,21 @@
+commit 34b13ebc2e6875c63011a6d0f45a9ec24e96d8ff
+Author: Kei <giliam.kei@gmail.com>
+Date:   Fri Sep 15 15:50:36 2023 +1000
+
+    question 2 is updated.
+
+commit 86d033e8719e41bdeae506653902bde8f76f690f
+Author: Kei <giliam.kei@gmail.com>
+Date:   Fri Sep 15 15:49:59 2023 +1000
+
+    question 1 is updated.
+
+commit ea16bb58a29cdd14d6241354825779b0945681b0
+Author: Kei <giliam.kei@gmail.com>
+Date:   Fri Sep 15 15:28:23 2023 +1000
+
+    question 1 is updated.
+
 commit 2c77c0e8160dcbfc878dc0c107aec95012494037
 Author: Kei <giliam.kei@gmail.com>
 Date:   Fri Sep 15 15:27:02 2023 +1000
