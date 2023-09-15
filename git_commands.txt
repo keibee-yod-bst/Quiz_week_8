@@ -1,0 +1,28 @@
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents
+$ cd '/c/Users/keibe/OneDrive/Documents/Griffith Uni/2023T2/2810ICT'
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT
+$ git clone https://github.com/keibee-yod-bst/Quiz_week_8
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT
+$ cd Quiz_week_8
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git push
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git log> git_log.txt
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git push
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git diff
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git push
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git pull
+
+
