@@ -25,4 +25,21 @@ $ git push
 keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
 $ git pull
 
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git add git_commands.txt
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git add git_log.txt
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git commit -a -m "test"
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git push
+
+uiz_week_8 (main)
+$ git commit -a -m "question 1 is updated."
+
+keibe@DESKTOP-MPMSP78 MINGW64 ~/OneDrive/Documents/Griffith Uni/2023T2/2810ICT/Quiz_week_8 (main)
+$ git push
 
