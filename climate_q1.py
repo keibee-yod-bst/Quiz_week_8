@@ -1,5 +1,22 @@
 import matplotlib.pyplot as plt
-        
+import sqlite3
+connection = sqlite3.connect(r'climate.db')
+cursor = connection.cursor()
+
+
+cursor.execute("SELECT * FROM Year")
+print("fetchall:")
+result = cursor.fetchall() # Return all (remaining) rows of a query result as a list.
+for r in result:
+    print(r)
+cursor.execute("SELECT * FROM Year")
+print("\nfetch one:")
+res = cursor.fetchone() # Return the next row query result set as a tuple.
+Return None if # no more data is available.
+print(res)
+connection.close()
+
+
 years = []
 co2 = []
 temp = []
