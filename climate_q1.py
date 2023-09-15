@@ -17,9 +17,9 @@ print(res)
 connection.close()
 
 
-years = []
-co2 = []
-temp = []
+cursor.years = ["SELECT * FROM Year"]
+cursor.co2 = ["SELECT * FROM CO2"]
+cursor.temp = ["SELECT * FROM DECIMAL"]
 
 plt.subplot(2, 1, 1)
 plt.plot(years, co2, 'b--') 
